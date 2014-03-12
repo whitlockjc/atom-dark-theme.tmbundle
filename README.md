@@ -6,7 +6,7 @@ not ship any grammars, commands or any other TextMate feature...only themes.
 The purpose for this bundle is to provide a central bundle for unofficial TextMate themes to be easily packaged and
 installed.  Below is the list of currently available themes:
 
-* **Atom Dark** - This is a port of the [Atom.io][atom-io] [Atom Dark][atom-dark-syntax] theme
+* **Atom Dark** - This is a port of the [Atom Dark][atom-dark-syntax] theme from [Atom.io][atom-io]
 
 ### Installation
 

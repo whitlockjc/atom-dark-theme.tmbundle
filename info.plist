@@ -7,9 +7,9 @@
 	<key>contactName</key>
 	<string>Jeremy Whitlock</string>
 	<key>description</key>
-	<string>Bundle containing extra TextMate themes.</string>
+	<string>"Atom Dark" theme ported from Atom.io: &lt;a href="https://github.com/atom/atom-dark-syntax"&gt;https://github.com/atom/atom-dark-syntax&lt;/a&gt;</string>
 	<key>name</key>
-	<string>Extra Themes</string>
+	<string>Atom Dark</string>
 	<key>uuid</key>
 	<string>FBB6636E-997C-438B-BD53-D29C08C08F92</string>
 </dict>

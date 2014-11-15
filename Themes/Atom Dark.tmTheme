@@ -134,6 +134,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Storage (type)</string>
+			<key>scope</key>
+			<string>storage.type</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#96CBFE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Constant</string>
 			<key>scope</key>
 			<string>constant</string>

@@ -145,6 +145,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Storage (type function)</string>
+			<key>scope</key>
+			<string>storage.type.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DAD085</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Constant</string>
 			<key>scope</key>
 			<string>constant</string>
